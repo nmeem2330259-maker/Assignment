@@ -1,0 +1,1 @@
+Anchor every design decision in validated user data and clear business objectives, rather than subjective personal opinions.
