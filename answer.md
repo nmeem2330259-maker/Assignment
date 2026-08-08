@@ -1,1 +1,0 @@
-Lack of good designing sense 
